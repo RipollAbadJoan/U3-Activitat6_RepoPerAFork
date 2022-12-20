@@ -78,7 +78,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila3 PC2:
 
 
-#### AlumneFila3 PC3:
+#### AlumneFila3 PC3: Ya he canviat el codi de Java i he escrit unes salutacions amb el meu nom.
 
 
 #### AlumneFila3 PC4:
